@@ -13,6 +13,7 @@ var seven = 7;
 var eight = 8;
 var nine = 9;
 var thirteen = 13;
+var seventeen = 17;
 
 for (var i = 1; i <= 10; i++) {
     // document.write(namta + " x " + i + " = " + i * namta + " </br> ");
@@ -43,6 +44,9 @@ for (var i = 1; i <= 10; i++) {
     }
     for (var i = 1; i <= 10; i++) {
         document.write(thirteen + " x " + i + " = " + i * thirteen + " </br> ");
+    }
+    for (var i = 1; i <= 10; i++) {
+        document.write(seventeen + " x " + i + " = " + i * seventeen + " </br> ");
     }
 }
 
